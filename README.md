@@ -8,7 +8,7 @@ This repository hosts resources related to my research and academic work.
 
 The appendix for my PhD application writing sample:
 
-https://yucheng12306.github.io/docs/appendix.pdf
+https://yucheng12306.github.io/docs/Appendix.pdf
 
 The full version of my master thesis:
 
